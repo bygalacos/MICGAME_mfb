@@ -1,2 +1,3 @@
-# MICGAME_mfb
-MICGAME MicroFunBot &amp; Installer
+# MICGAME MicroFunBot & Installer
+
+More info at: [https://free.micgame.net](https://free.micgame.net)
